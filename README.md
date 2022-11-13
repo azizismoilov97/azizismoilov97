@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
 </a>&nbsp;
 <a href="https://twitter.com/azizismoilov97">
-  https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white   
+  <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>&nbsp;
 <a href="https://medium.com/@azizismoilov97">
   <img src="https://img.shields.io/badge/medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white" />    
