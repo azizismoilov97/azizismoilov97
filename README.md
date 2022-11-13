@@ -1,6 +1,6 @@
 ## About me
 
-- 👩‍🚀 My name is Aziz Ismoilov and i'm 25 year-old Android Engineer
+- 👩‍🚀 My name is Aziz Ismoilov and i'm 25 year-old Android Engineer.
 - 💻 Currently working on very interesting and cool projects.
 - ✌🏻 Looking forward to collaborating with other developers.
 - 📫 I'm available to answer your questions related to programming on any platform. Just connect me :)
