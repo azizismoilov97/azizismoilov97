@@ -44,6 +44,3 @@
 
 <img src="https://profile-counter.glitch.me/azizismoilov97/count.svg" />
 
-<a href="https://github.com/azizismoilov97"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=azizismoilov97&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
-</p>
-
