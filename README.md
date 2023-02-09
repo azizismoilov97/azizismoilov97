@@ -1,6 +1,6 @@
 ## About me
 
-- 👩‍🚀 My name is Aziz Ismoilov and i'm 25 year-old Android Engineer.
+- 👩‍🚀 My name is Aziz Ismoilov and i'm 26 year-old Android Engineer.
 - 📍 I'm from Ferghana and work in Tashkent, Uzbekistan
 - 💻 Currently working on very interesting and cool projects.
 - 🏓 Love table tennis!!!
